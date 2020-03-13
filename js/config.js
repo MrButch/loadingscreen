@@ -113,7 +113,7 @@ var l_musicDisplay = true;
 var l_musicPlaylist = [
 	{youtube: "https://www.youtube.com/watch?v=PGrxHO-B2TY", name: "British Grenadiers"},
 	{ogg: "rulebritannia.ogg", name: "Rule Britannia!"},
-	{youtube: "https://www.youtube.com/watch?v=LJA0JSH7wgY", name: "Wayfaring Stranger"},
+	{youtube: "wayfaringstranger.ogg", name: "Wayfaring Stranger"},
 ];
 
 // Random music order?
@@ -130,9 +130,9 @@ var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
-	"Enjoy the server",
+	"Join our discord: https://discord.gg/93K4JZt",
 	"Thanks for joining us!",
-	"Did you know these backgrounds and music are from Touhou?",
+	"Welcome to the war effort!",
 ];
 
 // Random message order?
